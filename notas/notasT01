@@ -1,0 +1,2 @@
+# Paquete para leer ficheros XML, hay que hacerlo en la consola
+install.packages("XML")
