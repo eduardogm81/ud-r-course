@@ -1,0 +1,6 @@
+// Fijar el directorio de trabajo
+setwd()
+getwd()
+
+// Directorio global (Rstudio)
+Tools -> Global Options -> General
